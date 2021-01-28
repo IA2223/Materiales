@@ -14,7 +14,7 @@ Materiales de la asignatura Inteligencia Artificial de la Universidad de La Rioj
 
 ## Prácticas
 
-- [Práctica 1: Introducción a Python](https://classroom.github.com/a/T8AjI2cR).
+- Práctica 1: Introducción a Python
 - Práctica 2.
 - Práctica 3.
 - Práctica 4.
